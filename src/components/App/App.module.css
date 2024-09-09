@@ -7,3 +7,10 @@
   margin-right: auto;
   max-width: 640px;
 }
+
+.loaderError {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: -20px;
+}
